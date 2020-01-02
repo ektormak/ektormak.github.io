@@ -25,6 +25,6 @@ My complete CV
 As part of my undergraduate thesis, I developed Lyssandra, which is a software library that provides the tools to solve Computer Vision problems like object recognition and detection using Sparse Coding algorithms. I implemented a wide range of Sparse Coding and Dictionary Learning algorithms which can be used to extract discriminative features from high dimensional data. Most of the implementations are parallel and support memory mapping(change this nobody knows and cares about memory mapping) which is suitable for handling large datasets. Visit the project's github page.
 
 -->
-### Contact me
+### Contact
 
-[ektor.mak@gmail.com](mailto:ektor.mak@gmail.com)
+email: ektor.mak AT gmail.com
